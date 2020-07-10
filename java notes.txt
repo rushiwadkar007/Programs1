@@ -1,0 +1,22 @@
+
+
+*JPA is a standard or set of guidelines provided by Java, which acts an interface for accessing, persisting and managing data 
+between Java objects and relational databases. JPA is just an interface without any actual implementation to perform the action;here, 
+Hibernate comes into the picture as a JPA provider and references implementation
+ with the required underlying code to understand the JPA specification
+and accomplish the operation against the database.Hibernate is an ORM framework that helps to map the objects and the relational 
+database in the application. Hibernate is a superset of JPA that comes with multiple classes and methods to perform various 
+other functionalities. However, JPA specification makes the application independent of ORM tool, and it is easy to switch the ORM 
+tool from Hibernate to any other JPA provider such as EclipseLink 
+or iBatis.You may refer to this link to understand the difference between JPA and Hibernate with an example.ImageHosterApplication
+https://github.com/rushiwadkar007/ImageHosterApplicationIt is an Image hosting website project which has same features like Imgur 
+imaging hosting website does have
+
+*JOptionPane.showInputDialog("what is your name");
+
+*String.format("Your are Welcome %s, to Java Programming...! :)", name);
+
+*JOptionPane.showMessageDialog(null, message);
+
+
+

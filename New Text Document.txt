@@ -1,0 +1,6 @@
+Interview cobntent- 
+
+HTTP features - 
+HTTP is connectionless.
+HTTP is media independent.
+HTTP is stateless.

@@ -1,0 +1,29 @@
+/*FormHelperText properties*/
+.red {
+    color: red;
+}
+
+/* CSS properties to toggle display between different pages*/
+.dispNone{
+    display:none;
+}
+.dispBlock{
+    display:flex;
+}
+
+/* Log in input fields and button container*/
+.card-container{
+    width:25% !important;
+    align-self:center !important;
+}
+.card-main{
+    display: flex;
+    justify-content: center;
+}
+.inputUsername{
+    width:85% !important;
+}
+
+.inputPassword{
+    width:85% !important;
+}
